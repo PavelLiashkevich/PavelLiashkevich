@@ -1,16 +1,67 @@
-### Hi there 👋
+[https://user-images.githubusercontent.com/75558987/224287352-50a8759e-3325-446c-92b7-6078928dba3a.mp4](https://user-images.githubusercontent.com/75558987/224288882-e2df7d31-d80d-4a14-a042-a482ff23b221.mp4)
 
-<!--
-**PavelLiashkevich/PavelLiashkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp
+</div>
+
+---
+
+### 🛠 Tools:
+
+<div>
+  <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png" title="GIT" alt="VSCode" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### 🤝 Where to find me:
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/pavel-liashkevich/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/pavelleshkevich" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
+  </a>
+  <a href="https://www.instagram.com/pavel__leshkevich/" target="_blank">
+    <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/instagram.png" width="40" height="40" alt="Instagram" />
+  </a>
+  <a href="https://career.habr.com/pavelleshkevich81" target="_blank">
+    <img src="https://habrastorage.org/r/w1560/storage2/ebf/ded/334/ebfded3341c46c05625c8990cb4c5e8e.png" width="40" height="40" alt="HabrCareer" />
+  </a>
+</div>
+  
+---
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/PavelLiashkevich/badges/large)
+
+### ⚙️ Languages:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=PavelLiashkevich&theme=dark&background=000000" alt="Github Stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PavelLiashkevich&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
