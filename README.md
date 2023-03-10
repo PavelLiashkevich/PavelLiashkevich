@@ -53,7 +53,7 @@
 
 ![codewars](https://www.codewars.com/users/PavelLiashkevich/badges/large)
 
-### ⚙️ Languages:
+### ⚙️ Statistics & Languages:
 
 <table>
   <tr>
