@@ -39,9 +39,6 @@
   <a href="https://t.me/pavelleshkevich" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
   </a>
-  <a href="https://www.instagram.com/pavel__leshkevich/" target="_blank">
-    <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/instagram.png" width="40" height="40" alt="Instagram" />
-  </a>
   <a href="https://career.habr.com/pavelleshkevich81" target="_blank">
     <img src="https://habrastorage.org/r/w1560/storage2/ebf/ded/334/ebfded3341c46c05625c8990cb4c5e8e.png" width="40" height="40" alt="HabrCareer" />
   </a>
