@@ -19,7 +19,7 @@
 ### 🛠 Tools:
 
 <div>
-  <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png" title="GIT" alt="VSCode" width="40" height="40"/>&nbsp
+  <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp 
