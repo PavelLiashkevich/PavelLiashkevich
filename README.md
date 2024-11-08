@@ -59,3 +59,7 @@
 ### ⚙️ Statistics & Languages:
 
 <img height="195px" align="left" alt="Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PavelLiashkevich&layout=compact&theme=vision-friendly-dark" />
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
